@@ -1,4 +1,4 @@
-FROM ubuntu:wily
+FROM ubuntu:artful
 
 ENV DEBIAN_FRONTEND noninteractive
 
